@@ -13,7 +13,7 @@ public class Sintatico {
     //Estado Inicial
     public void S(){
         this.token= this.lexico.nextToken();
-        if(!token.getLexema().equals("public")){
+        if(!token.getLexema().equals("int")){
             throw new RuntimeException("Faltou implementar o main");
         }
         this.token=this.lexico.nextToken();
