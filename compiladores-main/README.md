@@ -1,2 +1,4 @@
-# compiladores
-ANALISE LEXICA
+# compilador
+equipe : 
+- Sérgio Castro 
+- Luiz Crisanto
